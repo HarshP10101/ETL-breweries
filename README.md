@@ -138,7 +138,7 @@ This enables historical tracking, auditing, and production readiness.
 
 ## 📊 Advanced SQL Insights
 
-This project intentionally avoids beginner level queries.
+Using SQL to find deeper and valuable insights 
 
 Examples include:
 
@@ -163,8 +163,6 @@ sql/
   04_insights_quality.sql
   05_insights_gold_drift.sql
 ```
-
-These are interview grade queries designed to show analytical depth.
 
 ---
 
