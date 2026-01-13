@@ -222,7 +222,3 @@ Built by **Harsh Patel**
 Data Analyst and Analytics Engineer with strong data engineering foundations.
 
 This repository reflects how data systems are designed end to end, not just code that runs once.
-
----
-
-Just say the word.
