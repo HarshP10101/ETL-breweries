@@ -172,7 +172,7 @@ MySQL runs fully containerized.
 
 ```bash
 docker run --name brewery-mysql \
-  --env-file .env
+  --env-file .env \
   -p 3306:3306 \
   -d mysql:8
 ```
