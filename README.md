@@ -142,16 +142,16 @@ Using SQL to find deeper and valuable insights
 
 Examples include:
 
-1. Brewery density leaders normalized by city coverage
-2. Market fragmentation index using HHI
-3. Over represented brewery types using lift vs national baseline
-4. Geo coverage score as a data completeness metric
-5. Geo outlier detection using pairwise distance calculations
-6. City percentile rankings using window functions
-7. Diversity score using Shannon entropy
+1. Which states have the highest brewery concentration relative to how many cities those breweries are spread across?
+2. In each state, are breweries spread across many cities fairly evenly, or are they heavily concentrated in just a few cities?
+3. Which states specialize in certain brewery types compared to the national baseline?Over represented brewery types using lift vs national baseline?
+4. Which states have the most complete geographic data?
+5. Are there cities where breweries that are supposed to be in the same city are extremely far apart?
+6. City percentile rankings using window functions (Which cities have the most breweries?, Which cities have the most breweries?)
+7. How diverse is each state’s brewery type mix?
 8. Gold layer snapshot drift analysis
-9. Top brewery type dominance per state
-10. Data hygiene profiling for phone numbers and postal codes
+9. What are the top 3 brewery types in each state?
+10. How clean and usable is the phone field and postal codes across the brewery dataset?
 
 All queries live under:
 
